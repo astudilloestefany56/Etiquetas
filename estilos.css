@@ -1,0 +1,27 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    font-family:'Arial Narrow';
+}
+
+main{
+    background-color: antiquewhite;
+
+
+}
+h1{
+    background-color: yellowgreen;
+}
+h2{
+   background-color: aquamarine;
+}
+h3{
+    background-color: yellow;
+}
+tr{
+    background-color: aqua ;
+}
